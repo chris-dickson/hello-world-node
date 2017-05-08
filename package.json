@@ -1,0 +1,11 @@
+{
+  "name": "@chris-dickson/hello-world-node",
+  "version": "1.0.0",
+  "description": "Hello world application for testing npm publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Dickson <cdickson@uncharted.software> (https://uncharted.software)",
+  "license": "Apache-2.0"
+}
