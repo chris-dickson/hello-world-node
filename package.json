@@ -1,6 +1,6 @@
 {
   "name": "@chris-dickson/hello-world-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hello world application for testing npm publishing",
   "main": "index.js",
   "scripts": {
