@@ -1,7 +1,8 @@
 {
   "name": "@chris-dickson/hello-world-node",
   "version": "1.0.6",
-  "description": "Hello world application for testing npm publishing",
+  "description": "A step-by-step guide to setting up a public NPM module with CircleCI continuous integration and deployment",
+  "repository": "https://github.com/chris-dickson/hello-world-node",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
