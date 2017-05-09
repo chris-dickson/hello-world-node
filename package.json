@@ -4,7 +4,7 @@
   "description": "Hello world application for testing npm publishing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests specified, but that's ok\" && exit 0"
+    "test": "gulp test"
   },
   "author": "Chris Dickson <cdickson@uncharted.software> (https://uncharted.software)",
   "license": "Apache-2.0"
